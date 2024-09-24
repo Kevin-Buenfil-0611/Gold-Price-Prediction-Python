@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/megag/Documents/Curso%20IA/Curso%20Avanzado/Deep%20Learning%20Regresion/mlruns/860371562126084448/cd534aecc7ec4421908abf23ba024cba/artifacts
+end_time: 1727134521192
+entry_point_name: ''
+experiment_id: '860371562126084448'
+lifecycle_stage: active
+run_id: cd534aecc7ec4421908abf23ba024cba
+run_name: sneaky-carp-190
+run_uuid: cd534aecc7ec4421908abf23ba024cba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727134521153
+status: 4
+tags: []
+user_id: megag

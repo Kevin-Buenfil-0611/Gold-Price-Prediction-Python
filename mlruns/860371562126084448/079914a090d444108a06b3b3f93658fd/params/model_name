@@ -1,0 +1,5 @@
+Adjusted R-Squared    1.00
+R-Squared             1.00
+RMSE                 18.65
+Time Taken            0.10
+Name: ExtraTreesRegressor, dtype: float64

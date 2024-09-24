@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/megag/Documents/Curso%20IA/Curso%20Avanzado/Deep%20Learning%20Regresion/mlruns/860371562126084448/e7e40fd068814bc5b49d1e463c197c11/artifacts
+end_time: 1727134943577
+entry_point_name: ''
+experiment_id: '860371562126084448'
+lifecycle_stage: active
+run_id: e7e40fd068814bc5b49d1e463c197c11
+run_name: gaudy-conch-870
+run_uuid: e7e40fd068814bc5b49d1e463c197c11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727134941383
+status: 3
+tags: []
+user_id: megag

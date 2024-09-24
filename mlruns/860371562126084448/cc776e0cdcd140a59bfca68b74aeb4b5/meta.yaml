@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/megag/Documents/Curso%20IA/Curso%20Avanzado/Deep%20Learning%20Regresion/mlruns/860371562126084448/cc776e0cdcd140a59bfca68b74aeb4b5/artifacts
+end_time: 1727071058301
+entry_point_name: ''
+experiment_id: '860371562126084448'
+lifecycle_stage: active
+run_id: cc776e0cdcd140a59bfca68b74aeb4b5
+run_name: amazing-sponge-404
+run_uuid: cc776e0cdcd140a59bfca68b74aeb4b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727071058274
+status: 4
+tags: []
+user_id: megag

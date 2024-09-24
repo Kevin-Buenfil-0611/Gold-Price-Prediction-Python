@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/megag/Documents/Curso%20IA/Curso%20Avanzado/Deep%20Learning%20Regresion/mlruns/860371562126084448/59bdd0f99c794b668db98932d95ae938/artifacts
+end_time: 1727072048717
+entry_point_name: ''
+experiment_id: '860371562126084448'
+lifecycle_stage: active
+run_id: 59bdd0f99c794b668db98932d95ae938
+run_name: able-elk-606
+run_uuid: 59bdd0f99c794b668db98932d95ae938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727072048675
+status: 4
+tags: []
+user_id: megag

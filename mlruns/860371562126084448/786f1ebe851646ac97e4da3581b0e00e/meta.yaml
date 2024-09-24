@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/megag/Documents/Curso%20IA/Curso%20Avanzado/Deep%20Learning%20Regresion/mlruns/860371562126084448/786f1ebe851646ac97e4da3581b0e00e/artifacts
+end_time: 1727070929381
+entry_point_name: ''
+experiment_id: '860371562126084448'
+lifecycle_stage: active
+run_id: 786f1ebe851646ac97e4da3581b0e00e
+run_name: sedate-mole-998
+run_uuid: 786f1ebe851646ac97e4da3581b0e00e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727070929353
+status: 4
+tags: []
+user_id: megag
